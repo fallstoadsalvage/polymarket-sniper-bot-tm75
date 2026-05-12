@@ -1,4 +1,4 @@
-# 
+# rare Polymarket Plugin | prediction-market-scanning + multi-exchange-support is the best Polymarket plugin, featuring prediction-market-scanning and multi-exchange-support. Smart,
 
 
 
